@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.easify.app-merged_res-35:/font_poppinsmedium.ttf.flat",
+        "source": "com.example.easify.app-main-37:/font/poppinsmedium.ttf"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/font_poppinssemibold.ttf.flat",
+        "source": "com.example.easify.app-main-37:/font/poppinssemibold.ttf"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.easify.app-main-37:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/font_poppins.xml.flat",
+        "source": "com.example.easify.app-main-37:/font/poppins.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable_google.png.flat",
+        "source": "com.example.easify.app-main-37:/drawable/google.png"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "com.example.easify.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/layout_activity_signup.xml.flat",
+        "source": "com.example.easify.app-main-37:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.easify.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable_loading.gif.flat",
+        "source": "com.example.easify.app-main-37:/drawable/loading.gif"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable_hello.gif.flat",
+        "source": "com.example.easify.app-main-37:/drawable/hello.gif"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable_google_gif.gif.flat",
+        "source": "com.example.easify.app-main-37:/drawable/google_gif.gif"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/raw_splash.json.flat",
+        "source": "com.example.easify.app-main-37:/raw/splash.json"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable_rectangle_gradient_s_purple_400_e_red_400_radius_15.xml.flat",
+        "source": "com.example.easify.app-main-37:/drawable/rectangle_gradient_s_purple_400_e_red_400_radius_15.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/font_lekton.xml.flat",
+        "source": "com.example.easify.app-main-37:/font/lekton.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/font_lektonregular.ttf.flat",
+        "source": "com.example.easify.app-main-37:/font/lektonregular.ttf"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.easify.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable_google_gif1.gif.flat",
+        "source": "com.example.easify.app-main-37:/drawable/google_gif1.gif"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/drawable_plumber.gif.flat",
+        "source": "com.example.easify.app-main-37:/drawable/plumber.gif"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.easify.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.easify.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-35:/layout_activity_splash.xml.flat",
+        "source": "com.example.easify.app-main-37:/layout/activity_splash.xml"
+    }
+]
