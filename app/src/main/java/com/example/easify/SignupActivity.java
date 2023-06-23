@@ -3,6 +3,7 @@ import static android.content.ContentValues.TAG;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
@@ -30,7 +31,7 @@ import java.util.HashMap;
 public class SignupActivity extends AppCompatActivity {
     Button SignupBtn;
     TextInputLayout reg_name, reg_email, reg_PhoneNo, reg_password;
-    ConnectionHelper connectionHelper;
+
     Connection connection;
     ProgressBar pb;
     FirebaseAuth mAuth;
@@ -79,11 +80,16 @@ public class SignupActivity extends AppCompatActivity {
                             public void onComplete(@NonNull Task<AuthResult> task) {
                                 pb.setVisibility(View.GONE);
                                 if (task.isSuccessful()) {
+                                    UserModel usermodel = new UserModel(name,email,phoneNo);
                                     FirebaseUser user = mAuth.getCurrentUser();
-                                    DatabaseReference ref = database.getReference("users/" + user.getUid());
-                                    ref.child("name").setValue(name);
-                                    ref.child("email").setValue(email);
-                                    ref.child("phoneNo").setValue(phoneNo);
+                                    DatabaseReference ref = database.getReference("users");
+                                    ref.child( user.getUid()).setValue(usermodel);
+                                    SharedPreferences pref = getSharedPreferences("user",MODE_PRIVATE);
+                                    SharedPreferences.Editor editor = pref.edit();
+                                    editor.putString("name",name);
+                                    editor.putString("email",email);
+                                    editor.putString("phoneNo",phoneNo);
+                                    editor.apply();
                                     Log.d(TAG, "Data added to Realtime Database for user: " + user.getUid());
                                     Intent intent = new Intent(SignupActivity.this, LoginActivity.class);
                                     startActivity(intent);

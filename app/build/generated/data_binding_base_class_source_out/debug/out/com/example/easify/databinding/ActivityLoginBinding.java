@@ -11,6 +11,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.widget.AppCompatButton;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.easify.R;
@@ -30,7 +31,7 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final ImageView googleAuth;
 
   @NonNull
-  public final Button loginBtn;
+  public final AppCompatButton loginBtn;
 
   @NonNull
   public final TextView logoName;
@@ -51,7 +52,7 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final TextInputLayout username;
 
   private ActivityLoginBinding(@NonNull LinearLayout rootView, @NonNull Button forgotPassword,
-      @NonNull ImageView googleAuth, @NonNull Button loginBtn, @NonNull TextView logoName,
+      @NonNull ImageView googleAuth, @NonNull AppCompatButton loginBtn, @NonNull TextView logoName,
       @NonNull TextInputLayout password, @NonNull ProgressBar progress1, @NonNull Button signupView,
       @NonNull TextView sloganName, @NonNull TextInputLayout username) {
     this.rootView = rootView;
@@ -106,7 +107,7 @@ public final class ActivityLoginBinding implements ViewBinding {
       }
 
       id = R.id.loginBtn;
-      Button loginBtn = ViewBindings.findChildViewById(rootView, id);
+      AppCompatButton loginBtn = ViewBindings.findChildViewById(rootView, id);
       if (loginBtn == null) {
         break missingId;
       }

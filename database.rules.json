@@ -1,0 +1,22 @@
+{
+  "rules": {
+    "users": {
+      "$uid": {
+        ".write": "auth != null",
+        ".read": "auth != null"
+      }
+    },
+    "service_partners": {
+      ".write": "auth != null",
+      ".read": "auth != null"
+    },
+        "services": {
+      ".write": "auth != null",
+      ".read": "auth != null"
+    },
+            "orders": {
+      ".write": "auth != null",
+      ".read": "auth != null"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by io.netty.util.internal.ReflectionUtil (file:/home/aswinak/.cache/firebase/emulators/firebase-database-emulator-v4.11.2.jar) to field sun.nio.ch.SelectorImpl.selectedKeys
+WARNING: Please consider reporting this to the maintainers of io.netty.util.internal.ReflectionUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+15:00:55.499 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+15:00:55.690 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:9000
+15:00:57.827 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO com.firebase.core.namespace.NamespaceActor - easify-b7c83-default-rtdb successfully activated FBKV (SurveyIdle(0)) wait: 148ms, init: 0ms
+15:00:57.885 [NamespaceSystem-blocking-namespace-operation-dispatcher-6] INFO com.firebase.core.namespace.StateManager - Namespace easify-b7c83-default-rtdb status Active to Active
+15:00:57.983 [NamespaceSystem-blocking-namespace-operation-dispatcher-6] INFO com.firebase.core.namespace.StateManager - Namespace easify-b7c83-default-rtdb status Active to Active
+15:01:17.365 [FirebaseWorkerPool-1-4] WARN com.firebase.core.persistence.backend.dummy.EmulatorMetadataPersistence - Multiple projectIds are not recommended in single project mode. Requested 
+namespace easify-b7c83, but the emulator is configured for easify-b7c83-default-rtdb. To 
+opt-out of single project mode add/set the singleProjectMode: false property in 
+the firebase.json emulators config. 
+15:01:17.372 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO com.firebase.core.namespace.NamespaceActor - easify-b7c83 successfully activated FBKV (SurveyIdle(0)) wait: 4ms, init: 0ms
+15:07:16.858 [Thread-0] INFO com.firebase.server.forge.App$ - Attempting graceful shutdown.
+15:07:16.878 [NamespaceSystem-akka.actor.default-dispatcher-8] INFO com.firebase.core.namespace.Terminator$Terminator - 2 actors left to terminate: easify-b7c83, easify-b7c83-default-rtdb
+15:07:16.894 [NamespaceSystem-akka.actor.default-dispatcher-14] INFO com.firebase.core.namespace.NamespaceActor - stopped namespace actor for easify-b7c83
+15:07:16.894 [NamespaceSystem-akka.actor.default-dispatcher-15] INFO com.firebase.core.namespace.NamespaceActor - stopped namespace actor for easify-b7c83-default-rtdb
+15:07:16.903 [Thread-0] INFO com.firebase.server.forge.App$ - Graceful shutdown complete.

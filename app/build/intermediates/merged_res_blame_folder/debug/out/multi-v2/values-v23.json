@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.easify.app-mergeDebugResources-33:/values-v23/values-v23.xml",
+            "outputFile": "com.example.easify.app-mergeDebugResources-34:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/aswinak/.gradle/caches/transforms-3/fdc51c0faae35a8161baf01230f0c1de/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/aswinak/.gradle/caches/transforms-3/66dad026baeffe24d171e49f43d1a2a6/transformed/material-1.8.0/res/values-v23/values-v23.xml",
+                    "source": "/home/aswinak/.gradle/caches/transforms-3/98e8e93c7e35ffdeacce1bbe1ec4651d/transformed/material-1.9.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

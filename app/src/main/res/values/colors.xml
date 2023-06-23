@@ -21,4 +21,32 @@
 <color name="gray_200">#efefef</color>
 <color name="white_A700">#ffffff</color>
 <color name="purple_400">#9c3fe4</color>
+
+    <color name="gray_600">#827575</color>
+    <color name="gray_501">#9f9191</color>
+    <color name="gray_51">#fffafa</color>
+    <color name="gray_601">#868782</color>
+    <color name="gray_502">#ac9c9c</color>
+
+    <color name="gray_901">#0e1217</color>
+    <color name="blue_A400">#0c79fe</color>
+    <color name="gray_800">#423131</color>
+    <color name="gray_900">#3e0202</color>
+    <color name="gray_801">#473a3a</color>
+    <color name="black_900_3f">#3f000000</color>
+    <color name="gray_101">#f6f6f6</color>
+    <color name="gray_50">#f9f9f9</color>
+    <color name="blue_50">#dbecf9</color>
+    <color name="gray_100">#f2f2f2</color>
+
+    <color name="black_900_16">#16000000</color>
+    <color name="lighgrey">#989797</color>
+    <color name="underline">#D8D6D6</color>
+    <color name="lavender">#8692f7</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
 </resources>
