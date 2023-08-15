@@ -1,490 +1,502 @@
 [
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_bg_blue_50_radius_12.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_bg_blue_50_radius_12.xml"
+        "merged": "com.example.easify.app-merged_res-38:/anim_slide_out_bottom.xml.flat",
+        "source": "com.example.easify.app-main-40:/anim/slide_out_bottom.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_add_location_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_add_location_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_schedule_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_schedule_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_bg_gray_101_radius_10.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_bg_gray_101_radius_10.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_round_remove_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_round_remove_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_gradient_s_purple_400_e_red_400_radius_15.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_gradient_s_purple_400_e_red_400_radius_15.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_gradient_s_purple_400_e_red_400_radius_15.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_gradient_s_purple_400_e_red_400_radius_15.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_bg_gray_502_radius_10.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_bg_gray_502_radius_10.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_search_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_search_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_share_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_share_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_locationblack.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_locationblack.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_upload_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_upload_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_login_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_login_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_hotel_class_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_hotel_class_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_trip_origin_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_trip_origin_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_dhi_0.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_dhi_0.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_power_settings_new_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_power_settings_new_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/layout_fragment_user_profile.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/fragment_user_profile.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/xml/data_extraction_rules.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_app_settings_alt_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_app_settings_alt_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_metal.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/metal.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_google_gif1.gif.flat",
+        "source": "com.example.easify.app-main-40:/drawable/google_gif1.gif"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_person_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_person_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_google.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/google.png"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_bg_gray_101_radius_10.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_bg_gray_101_radius_10.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_sf_pro_display.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/sf_pro_display.xml"
+        "merged": "com.example.easify.app-merged_res-38:/layout_simple_list_item_1.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/simple_list_item_1.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_home.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_home.xml"
+        "merged": "com.example.easify.app-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/activity_splash.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_colors.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/colors.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_sync_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_sync_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_login_background.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/login_background.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_home.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_home.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_codrive1.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_codrive1.webp"
+        "merged": "com.example.easify.app-merged_res-38:/layout_fragment_manage_appointments.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/fragment_manage_appointments.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_whatshot_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_whatshot_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_locationblack.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_locationblack.png"
+        "merged": "com.example.easify.app-merged_res-38:/font_lekton.xml.flat",
+        "source": "com.example.easify.app-main-40:/font/lekton.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_montserrat.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/montserrat.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_montserratbold.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/montserratbold.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_subscriptions_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_subscriptions_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.easify.app-main-40:/xml/backup_rules.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_upload_file_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_upload_file_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_poppinssemibold.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/poppinssemibold.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_bg_gray_50_radius_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_bg_gray_50_radius_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/layout_activity_signup.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/activity_signup.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-anydpi-v33/ic_launcher.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_round_image_white.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/round_image_white.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_activity_home.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_home.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_bg_gray_501_radius_10.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_bg_gray_501_radius_10.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_home_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.easify.app-merged_res-38:/layout_services_home_row.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/services_home_row.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_activity_signup.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_signup.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_add_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_bg_gray_600_radius_11.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_bg_gray_600_radius_11.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-anydpi-v33/ic_launcher.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_googlevectorre.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_googlevectorre.png"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_person_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_google_gif.gif.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/google_gif.gif"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_add_box_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_add_box_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_round_remove_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_round_remove_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_image_not_found.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/image_not_found.png"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_clear_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_clear_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_settings_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_settings_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_logout_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_logout_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_settings_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_upload_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_upload_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_person_outline_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_person_outline_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_livvic.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/livvic.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.easify.app-merged_res-36:/layout_services_row.xml.flat",
-        "source": "com.example.easify.app-main-38:/layout/services_row.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_livvicbold.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/livvicbold.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_dialogbg.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/dialogbg.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_download_done_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_download_done_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_message_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_message_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_bg_blue_50_radius_12.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_bg_blue_50_radius_12.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_fragment_home.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/fragment_home.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_google.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/google.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_lektonregular.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/lektonregular.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/layout_activity_forgot_passwrod.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/activity_forgot_passwrod.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_dhi_0.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_dhi_0.xml"
+        "merged": "com.example.easify.app-merged_res-38:/layout_fragment_book_appointment.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/fragment_book_appointment.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/menu_bottom_menu.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/menu/bottom_menu.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_addremovebgpr.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_addremovebgpr.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_video_library_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_video_library_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_round_image.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/round_image.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_robotoregular.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/robotoregular.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_login_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_login_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_person_pin_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_person_pin_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_outfitregular.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/outfitregular.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_fragment_book_appointment.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/fragment_book_appointment.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_front_image.webp.flat",
+        "source": "com.example.easify.app-main-40:/drawable/front_image.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_fragment_manage_appointments.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/fragment_manage_appointments.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_trip_origin_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_trip_origin_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_outfit.xml.flat",
+        "source": "com.example.easify.app-main-40:/font/outfit.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_bg_gray_502_radius_10.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_bg_gray_502_radius_10.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_loading.gif.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/loading.gif"
+        "merged": "com.example.easify.app-merged_res-38:/font_roboto.xml.flat",
+        "source": "com.example.easify.app-main-40:/font/roboto.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rounded_border.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rounded_border.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_logout_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_download_done_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_download_done_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/activity_login.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_activity_main.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_main.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_googlevectorre.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_googlevectorre.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_poppinsmedium.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/poppinsmedium.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_codrive1.webp.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_codrive1.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_fragment_user_profile.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/fragment_user_profile.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_livvic.xml.flat",
+        "source": "com.example.easify.app-main-40:/font/livvic.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/raw_splash.json.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/raw/splash.json"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_person_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_share_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_share_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.easify.app-main-40:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_mappinremovebg.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_mappinremovebg.png"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_toggle_button_background.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/toggle_button_background.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_person_pin_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_person_pin_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_selectlocation.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_selectlocation.png"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_bottomsheetlayout.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/bottomsheetlayout.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_create_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_create_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_bg_gray_900.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_bg_gray_900.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_hotel_class_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_hotel_class_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_menu_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_outfitregular.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/outfitregular.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_loading.gif.flat",
+        "source": "com.example.easify.app-main-40:/drawable/loading.gif"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_hello.gif.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/hello.gif"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_radius_10.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_radius_10.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_fav.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_fav.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_schedule_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_schedule_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_video_library_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_video_library_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_metalregular.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/metalregular.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_google_gif.gif.flat",
+        "source": "com.example.easify.app-main-40:/drawable/google_gif.gif"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_person_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_person_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_upload_file_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_upload_file_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_round_image.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/round_image.xml"
+        "merged": "com.example.easify.app-merged_res-38:/layout_req_pay_bottom_layout.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/req_pay_bottom_layout.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_robotoromanblack.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/robotoromanblack.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/anim_slide_in_bottom.xml.flat",
+        "source": "com.example.easify.app-main-40:/anim/slide_in_bottom.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_profilepic.jpg.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/profilepic.jpg"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_image_not_found.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/image_not_found.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_montserratmedium.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/montserratmedium.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_vibration_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_vibration_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_activity_login.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_login.xml"
+        "merged": "com.example.easify.app-merged_res-38:/menu_bottom_menu.xml.flat",
+        "source": "com.example.easify.app-main-40:/menu/bottom_menu.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_addremovebgpr.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_addremovebgpr.png"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_message_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_message_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_whatshot_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_whatshot_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_activity_splash.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_splash.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_login_background.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/login_background.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_simple_list_item_1.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/simple_list_item_1.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_bg_gray_50_radius_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_bg_gray_50_radius_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_poppins.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/poppins.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_search_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_clear_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_clear_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/raw_splash.json.flat",
+        "source": "com.example.easify.app-main-40:/raw/splash.json"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_livvicbold.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/livvicbold.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_delete_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.easify.app-merged_res-38:/layout_no_orders.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/no_orders.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_whatsappimage.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_whatsappimage.png"
+        "merged": "com.example.easify.app-merged_res-38:/layout_fragment_home.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/fragment_home.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_rate_review_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_rate_review_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_profilepic.jpg.flat",
+        "source": "com.example.easify.app-main-40:/drawable/profilepic.jpg"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_add_box_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_add_box_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/layout_services_row.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/services_row.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_outfit.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/outfit.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_add_location_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_add_location_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_roboto.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/roboto.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_create_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_create_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_round_image_white.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/round_image_white.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_metal.xml.flat",
+        "source": "com.example.easify.app-main-40:/font/metal.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_sync_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_sync_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/anim_slide_in_bottom.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/anim/slide_in_bottom.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_selectlocation.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_selectlocation.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_menu_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_menu_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_mappinremovebg.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_mappinremovebg.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_plumber.gif.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/plumber.gif"
+        "merged": "com.example.easify.app-merged_res-38:/font_poppinsmedium.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/poppinsmedium.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.easify.app-merged_res-38:/layout_bottomsheetlayout.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/bottomsheetlayout.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_montserratbold.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/montserratbold.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rounded_border.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rounded_border.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_rate_review_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_rate_review_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_app_settings_alt_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_app_settings_alt_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_whatsappimage.png.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_whatsappimage.png"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/layout_services_row.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/services_row.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_dialogbg.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/dialogbg.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_bg_white_a700.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_bg_white_a700.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_metalregular.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/metalregular.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_home_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_home_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_img_codrivepik1.webp.flat",
+        "source": "com.example.easify.app-main-40:/drawable/img_codrivepik1.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/anim_slide_out_bottom.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/anim/slide_out_bottom.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_bg_gray_600_radius_11.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_bg_gray_600_radius_11.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_codrivepik1.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_codrivepik1.webp"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_bg_gray_501_radius_10.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_bg_gray_501_radius_10.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_front_image.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/front_image.webp"
+        "merged": "com.example.easify.app-merged_res-38:/font_robotoromanblack.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/robotoromanblack.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_vibration_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_vibration_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_lektonregular.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/lektonregular.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_img_fav.png.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/img_fav.png"
+        "merged": "com.example.easify.app-merged_res-38:/layout_activity_home.xml.flat",
+        "source": "com.example.easify.app-main-40:/layout/activity_home.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_bg_gray_900.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_bg_gray_900.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_power_settings_new_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_power_settings_new_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_poppinssemibold.ttf.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/poppinssemibold.ttf"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_hello.gif.flat",
+        "source": "com.example.easify.app-main-40:/drawable/hello.gif"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_delete_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_delete_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_rectangle_bg_white_a700.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/rectangle_bg_white_a700.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_rectangle_radius_10.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/rectangle_radius_10.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_colors.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/colors.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/xml_backup_rules.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/xml/backup_rules.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_baseline_edit_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/baseline_edit_24.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_ic_baseline_add_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/ic_baseline_add_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_montserratmedium.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/montserratmedium.ttf"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.easify.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easify.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_edit_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_edit_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/font_lekton.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/font/lekton.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_sf_pro_display.xml.flat",
+        "source": "com.example.easify.app-main-40:/font/sf_pro_display.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_baseline_person_outline_24.xml.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/baseline_person_outline_24.xml"
+        "merged": "com.example.easify.app-merged_res-38:/font_poppins.xml.flat",
+        "source": "com.example.easify.app-main-40:/font/poppins.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-merged_res-36:/drawable_google_gif1.gif.flat",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/drawable/google_gif1.gif"
+        "merged": "com.example.easify.app-merged_res-38:/font_montserrat.xml.flat",
+        "source": "com.example.easify.app-main-40:/font/montserrat.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-38:/font_robotoregular.ttf.flat",
+        "source": "com.example.easify.app-main-40:/font/robotoregular.ttf"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-38:/drawable_ic_baseline_subscriptions_24.xml.flat",
+        "source": "com.example.easify.app-main-40:/drawable/ic_baseline_subscriptions_24.xml"
+    },
+    {
+        "merged": "com.example.easify.app-merged_res-38:/drawable_plumber.gif.flat",
+        "source": "com.example.easify.app-main-40:/drawable/plumber.gif"
     }
 ]

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#19846A"
-    tools:context=".UserProfileFragment">
+    tools:context=".BookAppointmentFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -54,20 +54,22 @@
                 app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
 
-
-                <!-- TODO: Update blank fragment layout -->
-
-            <androidx.recyclerview.widget.RecyclerView
-                android:id="@+id/recycler_services"
+            <!-- TODO: Update blank fragment layout -->
+            <ScrollView
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                app:layout_constraintTop_toBottomOf="@+id/createText"
-                tools:layout_editor_absoluteX="-16dp" />
+                android:layout_height="700dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.157"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/createText">
 
-
-
-
-
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recycler_services"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:layout_editor_absoluteX="10dp"
+                    tools:layout_editor_absoluteY="134dp" />
+            </ScrollView>
 
 
         </androidx.constraintlayout.widget.ConstraintLayout>

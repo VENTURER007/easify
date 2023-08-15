@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.easify.app-mergeDebugResources-34:/values-my/values-my.xml",
+            "outputFile": "com.example.easify.app-mergeDebugResources-36:/values-my/values-my.xml",
             "map": [
                 {
                     "source": "/home/aswinak/.gradle/caches/transforms-3/98e8e93c7e35ffdeacce1bbe1ec4651d/transformed/material-1.9.0/res/values-my/values-my.xml",
@@ -20,23 +20,6 @@
                         "endLines": "5,33,34,35,36,37,38,39,40,60,61,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116",
                         "endColumns": "12,100,98,75,90,83,105,128,84,64,89,74,58,90,62,64,58,70,61,56,118,57,60,54,72,131,90,88,140,77,76,91,57,50,65,71,81,81,74,73,71,78,96,80,85,91,73,78,85,53,67,82,80,61,63,62,111,102,103,104,60,54,81",
                         "endOffsets": "330,3192,3291,3367,3458,3542,3648,3777,3862,6390,6480,6883,6942,7033,7096,7161,7220,7291,7353,7410,7529,7587,7648,7703,7776,7908,7999,8088,8229,8307,8384,8476,8534,8585,8651,8723,8805,8887,8962,9036,9108,9187,9284,9365,9451,9543,9617,9696,9782,9836,9904,9987,10068,10130,10194,10257,10369,10472,10576,10681,10742,10797,10879"
-                    }
-                },
-                {
-                    "source": "/home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/res/values-my/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "149",
-                        "endOffsets": "344"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "4895",
-                        "endColumns": "153",
-                        "endOffsets": "5044"
                     }
                 },
                 {
@@ -88,6 +71,23 @@
                         "startOffsets": "3867,3974,4138,4272,4383,4530,4662,4785,5049,5225,5331,5501,5644,5802,5989,6059,6132",
                         "endColumns": "106,163,133,110,146,131,122,109,175,105,169,142,157,186,69,72,88",
                         "endOffsets": "3969,4133,4267,4378,4525,4657,4780,4890,5220,5326,5496,5639,5797,5984,6054,6127,6216"
+                    }
+                },
+                {
+                    "source": "/home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/res/values-my/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "149",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4895",
+                        "endColumns": "153",
+                        "endOffsets": "5044"
                     }
                 },
                 {

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.easify.app-mergeDebugResources-34:/values-v16/values-v16.xml",
+            "outputFile": "com.example.easify.app-mergeDebugResources-36:/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "/home/aswinak/.gradle/caches/transforms-3/e878cd6d6e5421a34e8ae800a74cf94a/transformed/core-1.9.0/res/values-v16/values-v16.xml",

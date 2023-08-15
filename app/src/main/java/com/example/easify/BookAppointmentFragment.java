@@ -1,9 +1,6 @@
 package com.example.easify;
 
-import android.app.AlertDialog;
 import android.app.Dialog;
-import android.content.DialogInterface;
-import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.location.Address;
@@ -26,14 +23,12 @@ import android.widget.AdapterView;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import com.example.easify.adapter.PlaceAutoSuggestAdapter;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
-import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -62,10 +57,13 @@ FirebaseDatabase database;
 FirebaseUser currentUser;
 
 LatLng latLng;
+LatLngWrapper latlng2;
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
 
 
         // Inflate the layout for this fragment
@@ -79,26 +77,27 @@ LatLng latLng;
 //uncomment and run to add new servie
 
 
-//        servicesRef.child(serviceKey).setValue(new ServiceModel(serviceKey,"Home Spa",500))
-//            .addOnSuccessListener(new OnSuccessListener<Void>() {
-//            @Override
-//            public void onSuccess(Void aVoid) {
-//                // Service added successfully
-//                Toast.makeText(getContext(), "Service added sucessfully", Toast.LENGTH_SHORT).show();
-//            }
-//        })
+
+
+
+//        services.add(new ServiceModel(serviceKey,"Plumbing",200));
+//        services.add(new ServiceModel(serviceKey,"Electrical Works",200));
+//        services.add(new ServiceModel(serviceKey,"Home Saloon",100));
+//        services.add(new ServiceModel(serviceKey,"Coconut climbing",500));
+//        servicesRef.child(serviceKey).setValue(new ServiceModel(serviceKey,"Cook",500))
+//                .addOnSuccessListener(new OnSuccessListener<Void>() {
+//                    @Override
+//                    public void onSuccess(Void aVoid) {
+//                        // Service added successfully
+//                        Toast.makeText(getContext(), "Service added sucessfully", Toast.LENGTH_SHORT).show();
+//                    }
+//                })
 //                .addOnFailureListener(new OnFailureListener() {
 //                    @Override
 //                    public void onFailure(@NonNull Exception e) {
 //                        // Failed to add service
 //                    }
 //                });
-
-
-//        services.add(new ServiceModel("Plumbing",200));
-//        services.add(new ServiceModel("Electrical Works",200));
-//        services.add(new ServiceModel("Home Saloon",100));
-//        services.add(new ServiceModel("Coconut climbing",500));
         adapter = new RecyclerServiceAdapter(getContext(),services);
         recyclerView.setAdapter(adapter);
         servicesRef.addValueEventListener(new ValueEventListener() {
@@ -125,6 +124,7 @@ LatLng latLng;
     @Override
     public void onItemClick(ServiceModel serviceModel) {
         // Display the dialog box
+        Log.e("from dialog box","service_id: "+serviceModel.service_id);
         showBottomDialog(serviceModel);
     }
     private void showBottomDialog(ServiceModel serviceModel) {
@@ -200,9 +200,11 @@ LatLng latLng;
                             if (dataSnapshot.exists()) {
                                 Toast.makeText(getContext(), "Order already exists", Toast.LENGTH_SHORT).show();
                             } else {
-                                String serviceKey = ref.push().getKey();
-                                OrderModel orderModel = new OrderModel(serviceKey, user_id, currentDateAndTime, latLng, lnd_mark, "", "false");
-                                ref.child(serviceKey).setValue(orderModel)
+                                String order_id = ref.push().getKey();
+                                Log.e("from book appointment fragment", latLng.toString());
+                                latlng2 = new LatLngWrapper(latLng.latitude,latLng.longitude);
+                                OrderModel orderModel = new OrderModel(order_id,serviceModel.service_id, user_id, currentDateAndTime, latlng2, lnd_mark, "", "false");
+                                ref.child(order_id).setValue(orderModel)
                                         .addOnSuccessListener(new OnSuccessListener<Void>() {
                                             @Override
                                             public void onSuccess(Void aVoid) {
@@ -210,6 +212,7 @@ LatLng latLng;
                                                 Toast.makeText(getContext(), "Order Added successfully", Toast.LENGTH_SHORT).show();
                                                 dialog.dismiss();
                                             }
+
                                         })
                                         .addOnFailureListener(new OnFailureListener() {
                                             @Override

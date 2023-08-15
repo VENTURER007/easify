@@ -1,54 +1,62 @@
 [
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/activity_signup.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_signup.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/activity_signup.xml",
+        "source": "com.example.easify.app-main-40:/layout/activity_signup.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/services_row.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/services_row.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.example.easify.app-main-40:/layout/activity_login.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/activity_login.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_login.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/activity_forgot_passwrod.xml",
+        "source": "com.example.easify.app-main-40:/layout/activity_forgot_passwrod.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/bottomsheetlayout.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/bottomsheetlayout.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/activity_splash.xml",
+        "source": "com.example.easify.app-main-40:/layout/activity_splash.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/activity_home.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_home.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/simple_list_item_1.xml",
+        "source": "com.example.easify.app-main-40:/layout/simple_list_item_1.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/fragment_user_profile.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/fragment_user_profile.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/fragment_book_appointment.xml",
+        "source": "com.example.easify.app-main-40:/layout/fragment_book_appointment.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/simple_list_item_1.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/simple_list_item_1.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/fragment_manage_appointments.xml",
+        "source": "com.example.easify.app-main-40:/layout/fragment_manage_appointments.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/fragment_book_appointment.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/fragment_book_appointment.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/services_row.xml",
+        "source": "com.example.easify.app-main-40:/layout/services_row.xml"
     },
     {
-        "merged": "com.example.easify.app-mergeDebugResources-35:/layout/services_row.xml",
-        "source": "com.example.easify.app-main-38:/layout/services_row.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/fragment_home.xml",
+        "source": "com.example.easify.app-main-40:/layout/fragment_home.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/fragment_home.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/fragment_home.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/services_home_row.xml",
+        "source": "com.example.easify.app-main-40:/layout/services_home_row.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/fragment_manage_appointments.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/fragment_manage_appointments.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/no_orders.xml",
+        "source": "com.example.easify.app-main-40:/layout/no_orders.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/activity_splash.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_splash.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/fragment_user_profile.xml",
+        "source": "com.example.easify.app-main-40:/layout/fragment_user_profile.xml"
     },
     {
-        "merged": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-mergeDebugResources-35:/layout/activity_main.xml",
-        "source": "/home/aswinak/.gradle/daemon/7.5/com.example.easify.app-main-38:/layout/activity_main.xml"
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/bottomsheetlayout.xml",
+        "source": "com.example.easify.app-main-40:/layout/bottomsheetlayout.xml"
+    },
+    {
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/activity_home.xml",
+        "source": "com.example.easify.app-main-40:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.easify.app-mergeDebugResources-37:/layout/req_pay_bottom_layout.xml",
+        "source": "com.example.easify.app-main-40:/layout/req_pay_bottom_layout.xml"
     }
 ]

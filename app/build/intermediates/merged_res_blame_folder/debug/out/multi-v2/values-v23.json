@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.easify.app-mergeDebugResources-34:/values-v23/values-v23.xml",
+            "outputFile": "com.example.easify.app-mergeDebugResources-36:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/aswinak/.gradle/caches/transforms-3/fdc51c0faae35a8161baf01230f0c1de/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",

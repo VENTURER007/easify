@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.easify.app-mergeDebugResources-34:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "com.example.easify.app-mergeDebugResources-36:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/home/aswinak/.gradle/caches/transforms-3/bc925fb65aed6e8494b910d1ffec4c8e/transformed/appcompat-1.6.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",

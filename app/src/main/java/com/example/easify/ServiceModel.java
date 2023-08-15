@@ -12,11 +12,37 @@ public class ServiceModel implements Parcelable {
     public String serviceName;
     public String service_id;
 
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public ServiceModel(String serviceName, String service_id, String imageUrl, int serviceCharge, Map<String, Boolean> currentEmployee) {
+        this.serviceName = serviceName;
+        this.service_id = service_id;
+        this.imageUrl = imageUrl;
+        this.serviceCharge = serviceCharge;
+        this.currentEmployee = currentEmployee;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
+    }
+
+    public String imageUrl;
+
     public ServiceModel(String service_id, String serviceName, int serviceCharge, Map<String, Boolean> currentEmployee) {
         this.service_id = service_id;
         this.serviceName = serviceName;
         this.serviceCharge = serviceCharge;
         this.currentEmployee = currentEmployee;
+    }
+
+    public String getService_id() {
+        return service_id;
+    }
+
+    public void setService_id(String service_id) {
+        this.service_id = service_id;
     }
 
     public ServiceModel(){
@@ -26,6 +52,7 @@ public class ServiceModel implements Parcelable {
     protected ServiceModel(Parcel in) {
         serviceName = in.readString();
         serviceCharge = in.readInt();
+        imageUrl = in.readString();
     }
     public ServiceModel(String serviceName, int serviceCharge) {
         this.serviceName = serviceName;
@@ -91,6 +118,7 @@ public class ServiceModel implements Parcelable {
         parcel.writeString(serviceName);
         parcel.writeInt(serviceCharge);
         parcel.writeMap(currentEmployee);
+        parcel.writeString(imageUrl);
 
     }
 }

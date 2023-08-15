@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.easify.app-mergeDebugResources-34:/values-mr/values-mr.xml",
+            "outputFile": "com.example.easify.app-mergeDebugResources-36:/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "/home/aswinak/.gradle/caches/transforms-3/bc925fb65aed6e8494b910d1ffec4c8e/transformed/appcompat-1.6.1/res/values-mr/values-mr.xml",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/res/values-mr/values.xml",
+                    "source": "/home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/res/values-mr/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

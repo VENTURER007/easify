@@ -17,6 +17,10 @@ public class UserModel implements Parcelable {
         this.phoneNo = phoneNo;
     }
 
+    public UserModel(String fullName) {
+        this.fullName = fullName;
+    }
+
     protected UserModel(Parcel in) {
         fullName = in.readString();
         email = in.readString();

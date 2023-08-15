@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.easify.app-mergeDebugResources-34:/values-ne/values-ne.xml",
+            "outputFile": "com.example.easify.app-mergeDebugResources-36:/values-ne/values-ne.xml",
             "map": [
                 {
                     "source": "/home/aswinak/.gradle/caches/transforms-3/98e8e93c7e35ffdeacce1bbe1ec4651d/transformed/material-1.9.0/res/values-ne/values-ne.xml",
@@ -57,6 +57,23 @@
                     }
                 },
                 {
+                    "source": "/home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/res/values-ne/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "159",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4856",
+                        "endColumns": "163",
+                        "endOffsets": "5015"
+                    }
+                },
+                {
                     "source": "/home/aswinak/.gradle/caches/transforms-3/e878cd6d6e5421a34e8ae800a74cf94a/transformed/core-1.9.0/res/values-ne/values-ne.xml",
                     "from": {
                         "startLines": "2",
@@ -88,23 +105,6 @@
                         "startOffsets": "312,421,532,640,731,838,958,1042,1121,1212,1305,1400,1494,1594,1687,1782,1876,1967,2058,2144,2257,2358,2454,2567,2677,2794,2961,10875",
                         "endColumns": "108,110,107,90,106,119,83,78,90,92,94,93,99,92,94,93,90,90,85,112,100,95,112,109,116,166,110,79",
                         "endOffsets": "416,527,635,726,833,953,1037,1116,1207,1300,1395,1489,1589,1682,1777,1871,1962,2053,2139,2252,2353,2449,2562,2672,2789,2956,3067,10950"
-                    }
-                },
-                {
-                    "source": "/home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/res/values-ne/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "159",
-                        "endOffsets": "354"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "4856",
-                        "endColumns": "163",
-                        "endOffsets": "5015"
                     }
                 }
             ]

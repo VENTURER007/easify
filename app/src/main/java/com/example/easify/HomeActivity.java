@@ -18,7 +18,7 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import com.example.easify.databinding.ActivityHomeBinding;
-import com.example.easify.databinding.ActivityMainBinding;
+
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
@@ -34,6 +34,7 @@ public class HomeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         getSupportActionBar().hide();
         super.onCreate(savedInstanceState);
+
         binding = ActivityHomeBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
         replaceFragment(new HomeFragment());
@@ -75,6 +76,19 @@ public class HomeActivity extends AppCompatActivity {
 //            }
 //        });
 
+    }
+
+    public void makeNothingHereInvisible() {
+        View nothingHereView = findViewById(R.id.nothingHere);
+        if (nothingHereView != null) {
+            nothingHereView.setVisibility(View.INVISIBLE);
+        }
+    }
+    public void makeNothingHereVisible() {
+        View nothingHereView = findViewById(R.id.nothingHere);
+        if (nothingHereView != null) {
+            nothingHereView.setVisibility(View.VISIBLE);
+        }
     }
     private  void replaceFragment(Fragment fragment) {
         FragmentManager fragmentManager = getSupportFragmentManager();

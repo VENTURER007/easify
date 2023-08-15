@@ -65,8 +65,9 @@ public class RecyclerServiceAdapter extends RecyclerView.Adapter<RecyclerService
                     int position = getAdapterPosition();
                     if (position != RecyclerView.NO_POSITION && listener != null) {
                         ServiceModel service = service_list.get(position);
+//                        Log.e("from adapter","service_id : " + service.getService_id());
                         listener.onItemClick(service);
-                        Log.e("from adapter","service_id : " + service.service_id);
+
                     }
                 }
             });

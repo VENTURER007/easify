@@ -1,28 +1,34 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
 MERGED from [androidx.databinding:viewbinding:7.4.1] /home/aswinak/.gradle/caches/transforms-3/602f48c4386a4167d5136bdf1f1d4981/transformed/viewbinding-7.4.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.9.0] /home/aswinak/.gradle/caches/transforms-3/98e8e93c7e35ffdeacce1bbe1ec4651d/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aswinak/.gradle/caches/transforms-3/ef5e6e4738ba198b47a13099f5bf8bf5/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/aswinak/.gradle/caches/transforms-3/deaa0443aba16cf3d2fd5bebe9ef1551/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/aswinak/.gradle/caches/transforms-3/bc925fb65aed6e8494b910d1ffec4c8e/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/aswinak/.gradle/caches/transforms-3/523c47b80d98e21d1dc2b40a20e3f451/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:2:1-20:12
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] /home/aswinak/.gradle/caches/transforms-3/f4d565a3b7424710c2c735e5a112f9cf/transformed/android-gif-drawable-1.2.19/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-database:20.2.2] /home/aswinak/.gradle/caches/transforms-3/73c106307f849e20b9def1a994d0022c/transformed/firebase-database-20.2.2/AndroidManifest.xml:15:1-37:12
 MERGED from [com.google.firebase:firebase-appcheck:17.0.1] /home/aswinak/.gradle/caches/transforms-3/4144483ce93fb3a8ac509f5aae647736/transformed/firebase-appcheck-17.0.1/AndroidManifest.xml:15:1-33:12
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:17:1-44:12
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.volley:volley:1.2.1] /home/aswinak/.gradle/caches/transforms-3/478c8d1acdfae919a5da6dc4b9a67b34/transformed/volley-1.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /home/aswinak/.gradle/caches/transforms-3/3cf0412a8c66ba150cdac124b9a1c1c0/transformed/glide-4.15.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/aswinak/.gradle/caches/transforms-3/be35f75a72630b4c7b4b689037f1b5c5/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:15:1-39:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aswinak/.gradle/caches/transforms-3/2d075cd0f5c9c2b5e0c96ad4585ac366/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/aswinak/.gradle/caches/transforms-3/e7ca06aff393a6fa7d13e25e4b287a35/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/aswinak/.gradle/caches/transforms-3/a8346f402f4d9c58e54c34dc1ad1672e/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/aswinak/.gradle/caches/transforms-3/f0b31ec7ed1d70cfcb11e115ab5223da/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/aswinak/.gradle/caches/transforms-3/c3cce15938b826410497153923357b87/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/aswinak/.gradle/caches/transforms-3/b263ac9ff3fc1ed2f64fa00a85dd06e2/transformed/play-services-fido-20.0.1/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/aswinak/.gradle/caches/transforms-3/f637cd4881eb8d22972391cd5336d9dd/transformed/recaptcha-18.1.2/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.play:integrity:1.1.0] /home/aswinak/.gradle/caches/transforms-3/d9141ed2d57a7ab785998cfbc0435cb3/transformed/integrity-1.1.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/aswinak/.gradle/caches/transforms-3/a8346f402f4d9c58e54c34dc1ad1672e/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:15:1-25:12
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/aswinak/.gradle/caches/transforms-3/9138d909f832accbf84c6a263d21774c/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/aswinak/.gradle/caches/transforms-3/20f2df6231775ca0340281e9541d17f2/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/aswinak/.gradle/caches/transforms-3/8eca88016c4f2d461decb0ff6a297b4f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -31,7 +37,7 @@ MERGED from [androidx.loader:loader:1.0.0] /home/aswinak/.gradle/caches/transfor
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/aswinak/.gradle/caches/transforms-3/f4b810d682ca052a583e8b7cd4b09871/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/aswinak/.gradle/caches/transforms-3/522d81a10b19d678b6c3676656046d3f/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/aswinak/.gradle/caches/transforms-3/717d434982977aae5e16b4f97189f751/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.3.6] /home/aswinak/.gradle/caches/transforms-3/f7b32757ca03666515f4c3ad4eaaac88/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.6.0] /home/aswinak/.gradle/caches/transforms-3/a1d325756aee86d51cac643264140594/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/aswinak/.gradle/caches/transforms-3/19ff20d65a9637ce016a5810f78d8c2b/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
@@ -52,10 +58,12 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/aswinak/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/aswinak/.gradle/caches/transforms-3/bc1e16d9d1d213db5b6134128662a861/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] /home/aswinak/.gradle/caches/transforms-3/c296401aeec785c7b8990ee72918eca4/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] /home/aswinak/.gradle/caches/transforms-3/fdc51c0faae35a8161baf01230f0c1de/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aswinak/.gradle/caches/transforms-3/ce04a1a92f31681483ea625b7afbbcaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.1.0] /home/aswinak/.gradle/caches/transforms-3/84910ab4d3ec5e1685888707e795f9c9/transformed/firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /home/aswinak/.gradle/caches/transforms-3/c69f93d5bb97ec1fe221f11d188447f6/transformed/gifdecoder-4.15.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/aswinak/.gradle/caches/transforms-3/0a84a5b7058713e05a68bae9ac14234b/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/aswinak/.gradle/caches/transforms-3/a7ccdfd97f3d474ba16d3e4df621c775/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] /home/aswinak/.gradle/caches/transforms-3/79968e930d5a1785af53537c5e1e28c1/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aswinak/.gradle/caches/transforms-3/ce04a1a92f31681483ea625b7afbbcaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aswinak/.gradle/caches/transforms-3/659367f6362215c1cdca31091b7e21fa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aswinak/.gradle/caches/transforms-3/489ab0ad17d8343895e2f5c9177b0cfb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/aswinak/.gradle/caches/transforms-3/036a25f6ab47f7de943df60dce871712/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
@@ -65,29 +73,29 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aswinak/.gradle/cac
 MERGED from [androidx.print:print:1.0.0] /home/aswinak/.gradle/caches/transforms-3/2e844ac4a24c9731b0e0e4b18f9c47d8/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/aswinak/.gradle/caches/transforms-3/f2a5dfaa6456085a6d02100d26bcde09/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 MERGED from [pl.droidsonroids:relinker:1.3.1] /home/aswinak/.gradle/caches/transforms-3/d3acf46ba1da8a3defd2437ff56a6bce/transformed/relinker-1.3.1/AndroidManifest.xml:2:1-7:12
-INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
 	package
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-52:12
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:1-48:12
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:25:5-67
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-database:20.2.2] /home/aswinak/.gradle/caches/transforms-3/73c106307f849e20b9def1a994d0022c/transformed/firebase-database-20.2.2/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-database:20.2.2] /home/aswinak/.gradle/caches/transforms-3/73c106307f849e20b9def1a994d0022c/transformed/firebase-database-20.2.2/AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
@@ -98,8 +106,8 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/aswinak/.gradl
 		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:6:5-79
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:26:5-79
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-database:20.2.2] /home/aswinak/.gradle/caches/transforms-3/73c106307f849e20b9def1a994d0022c/transformed/firebase-database-20.2.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-database:20.2.2] /home/aswinak/.gradle/caches/transforms-3/73c106307f849e20b9def1a994d0022c/transformed/firebase-database-20.2.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
@@ -109,13 +117,15 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/aswinak/.gradl
 	android:name
 		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:8:5-50:19
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:8:5-46:19
 MERGED from [com.google.android.material:material:1.9.0] /home/aswinak/.gradle/caches/transforms-3/98e8e93c7e35ffdeacce1bbe1ec4651d/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] /home/aswinak/.gradle/caches/transforms-3/98e8e93c7e35ffdeacce1bbe1ec4651d/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aswinak/.gradle/caches/transforms-3/ef5e6e4738ba198b47a13099f5bf8bf5/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aswinak/.gradle/caches/transforms-3/ef5e6e4738ba198b47a13099f5bf8bf5/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:28:5-73:19
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/aswinak/.gradle/caches/transforms-3/523c47b80d98e21d1dc2b40a20e3f451/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:10:5-18:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/aswinak/.gradle/caches/transforms-3/523c47b80d98e21d1dc2b40a20e3f451/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:10:5-18:19
 MERGED from [com.google.firebase:firebase-database:20.2.2] /home/aswinak/.gradle/caches/transforms-3/73c106307f849e20b9def1a994d0022c/transformed/firebase-database-20.2.2/AndroidManifest.xml:27:5-35:19
@@ -124,28 +134,36 @@ MERGED from [com.google.firebase:firebase-appcheck:17.0.1] /home/aswinak/.gradle
 MERGED from [com.google.firebase:firebase-appcheck:17.0.1] /home/aswinak/.gradle/caches/transforms-3/4144483ce93fb3a8ac509f5aae647736/transformed/firebase-appcheck-17.0.1/AndroidManifest.xml:23:5-31:19
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:10:5-18:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:10:5-18:19
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /home/aswinak/.gradle/caches/transforms-3/3cf0412a8c66ba150cdac124b9a1c1c0/transformed/glide-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /home/aswinak/.gradle/caches/transforms-3/3cf0412a8c66ba150cdac124b9a1c1c0/transformed/glide-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:10:5-18:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/aswinak/.gradle/caches/transforms-3/be35f75a72630b4c7b4b689037f1b5c5/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/aswinak/.gradle/caches/transforms-3/be35f75a72630b4c7b4b689037f1b5c5/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:24:5-37:19
-MERGED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:24:5-37:19
-MERGED from [com.google.android.play:integrity:1.1.0] /home/aswinak/.gradle/caches/transforms-3/d9141ed2d57a7ab785998cfbc0435cb3/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.play:integrity:1.1.0] /home/aswinak/.gradle/caches/transforms-3/d9141ed2d57a7ab785998cfbc0435cb3/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:24:5-37:19
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/aswinak/.gradle/caches/transforms-3/a8346f402f4d9c58e54c34dc1ad1672e/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:23:5-20
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/aswinak/.gradle/caches/transforms-3/a8346f402f4d9c58e54c34dc1ad1672e/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/aswinak/.gradle/caches/transforms-3/b263ac9ff3fc1ed2f64fa00a85dd06e2/transformed/play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/aswinak/.gradle/caches/transforms-3/b263ac9ff3fc1ed2f64fa00a85dd06e2/transformed/play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.play:integrity:1.1.0] /home/aswinak/.gradle/caches/transforms-3/d9141ed2d57a7ab785998cfbc0435cb3/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] /home/aswinak/.gradle/caches/transforms-3/d9141ed2d57a7ab785998cfbc0435cb3/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
 MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/aswinak/.gradle/caches/transforms-3/20f2df6231775ca0340281e9541d17f2/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/aswinak/.gradle/caches/transforms-3/20f2df6231775ca0340281e9541d17f2/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/aswinak/.gradle/caches/transforms-3/717d434982977aae5e16b4f97189f751/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/aswinak/.gradle/caches/transforms-3/717d434982977aae5e16b4f97189f751/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /home/aswinak/.gradle/caches/transforms-3/faad00d07dc63e8fc1e394ca2f4946b8/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /home/aswinak/.gradle/caches/transforms-3/faad00d07dc63e8fc1e394ca2f4946b8/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.9.0] /home/aswinak/.gradle/caches/transforms-3/e878cd6d6e5421a34e8ae800a74cf94a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.9.0] /home/aswinak/.gradle/caches/transforms-3/e878cd6d6e5421a34e8ae800a74cf94a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/aswinak/.gradle/caches/transforms-3/97083597d2aa1ff67b7330551f5ec587/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/aswinak/.gradle/caches/transforms-3/97083597d2aa1ff67b7330551f5ec587/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /home/aswinak/.gradle/caches/transforms-3/c69f93d5bb97ec1fe221f11d188447f6/transformed/gifdecoder-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /home/aswinak/.gradle/caches/transforms-3/c69f93d5bb97ec1fe221f11d188447f6/transformed/gifdecoder-4.15.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/aswinak/.gradle/caches/transforms-3/a7ccdfd97f3d474ba16d3e4df621c775/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/aswinak/.gradle/caches/transforms-3/a7ccdfd97f3d474ba16d3e4df621c775/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aswinak/.gradle/caches/transforms-3/659367f6362215c1cdca31091b7e21fa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
@@ -168,58 +186,58 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aswin
 		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:15:9-44
 	android:dataExtractionRules
 		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:10:9-65
+activity#com.example.easify.ForgotPasswrodActivity
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:18:13-51
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:17:9-19:71
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:21:9-23:71
 	android:value
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:19:13-68
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:23:13-68
 	android:name
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:18:13-58
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:22:13-58
 activity#com.example.easify.HomeActivity
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:20:9-22:40
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:25:9-27:40
 	android:exported
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:22:13-37
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:21:13-41
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:26:13-41
 activity#com.example.easify.SignupActivity
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:23:9-25:40
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:28:9-30:40
 	android:exported
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:25:13-37
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:24:13-43
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:29:13-43
 activity#com.example.easify.LoginActivity
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:26:9-28:40
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:31:9-33:40
 	android:exported
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:28:13-37
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:27:13-42
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:32:13-42
 activity#com.example.easify.SplashActivity
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:29:9-40:20
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:34:9-45:20
 	android:label
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:33:13-58
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:38:13-58
 	android:exported
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:32:13-36
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:37:13-36
 	android:configChanges
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:31:13-74
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:36:13-74
 	android:theme
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:34:13-59
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:39:13-59
 	android:name
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:30:13-43
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:35:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:35:13-39:29
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:40:13-44:29
 action#android.intent.action.MAIN
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:36:17-69
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:36:25-66
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:38:17-77
+ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:38:27-74
-activity#com.example.easify.MainActivity
-ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:41:9-49:20
-	android:exported
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:43:13-36
-	android:name
-		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:42:13-41
+		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml:43:27-74
 uses-sdk
 INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
@@ -234,8 +252,10 @@ MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/aswinak/.gradle
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/aswinak/.gradle/caches/transforms-3/deaa0443aba16cf3d2fd5bebe9ef1551/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/aswinak/.gradle/caches/transforms-3/bc925fb65aed6e8494b910d1ffec4c8e/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/aswinak/.gradle/caches/transforms-3/bc925fb65aed6e8494b910d1ffec4c8e/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:21:5-23:64
-MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/aswinak/.gradle/caches/transforms-3/523c47b80d98e21d1dc2b40a20e3f451/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/aswinak/.gradle/caches/transforms-3/523c47b80d98e21d1dc2b40a20e3f451/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:5:5-7:41
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] /home/aswinak/.gradle/caches/transforms-3/f4d565a3b7424710c2c735e5a112f9cf/transformed/android-gif-drawable-1.2.19/AndroidManifest.xml:5:5-7:41
@@ -246,22 +266,32 @@ MERGED from [com.google.firebase:firebase-appcheck:17.0.1] /home/aswinak/.gradle
 MERGED from [com.google.firebase:firebase-appcheck:17.0.1] /home/aswinak/.gradle/caches/transforms-3/4144483ce93fb3a8ac509f5aae647736/transformed/firebase-appcheck-17.0.1/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.2.1] /home/aswinak/.gradle/caches/transforms-3/478c8d1acdfae919a5da6dc4b9a67b34/transformed/volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] /home/aswinak/.gradle/caches/transforms-3/478c8d1acdfae919a5da6dc4b9a67b34/transformed/volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /home/aswinak/.gradle/caches/transforms-3/3cf0412a8c66ba150cdac124b9a1c1c0/transformed/glide-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /home/aswinak/.gradle/caches/transforms-3/3cf0412a8c66ba150cdac124b9a1c1c0/transformed/glide-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/aswinak/.gradle/caches/transforms-3/be35f75a72630b4c7b4b689037f1b5c5/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/aswinak/.gradle/caches/transforms-3/be35f75a72630b4c7b4b689037f1b5c5/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aswinak/.gradle/caches/transforms-3/2d075cd0f5c9c2b5e0c96ad4585ac366/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aswinak/.gradle/caches/transforms-3/2d075cd0f5c9c2b5e0c96ad4585ac366/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/aswinak/.gradle/caches/transforms-3/e7ca06aff393a6fa7d13e25e4b287a35/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/aswinak/.gradle/caches/transforms-3/e7ca06aff393a6fa7d13e25e4b287a35/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/aswinak/.gradle/caches/transforms-3/a8346f402f4d9c58e54c34dc1ad1672e/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/aswinak/.gradle/caches/transforms-3/a8346f402f4d9c58e54c34dc1ad1672e/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/aswinak/.gradle/caches/transforms-3/f0b31ec7ed1d70cfcb11e115ab5223da/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/aswinak/.gradle/caches/transforms-3/f0b31ec7ed1d70cfcb11e115ab5223da/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/aswinak/.gradle/caches/transforms-3/c3cce15938b826410497153923357b87/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/aswinak/.gradle/caches/transforms-3/c3cce15938b826410497153923357b87/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/aswinak/.gradle/caches/transforms-3/b263ac9ff3fc1ed2f64fa00a85dd06e2/transformed/play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/aswinak/.gradle/caches/transforms-3/b263ac9ff3fc1ed2f64fa00a85dd06e2/transformed/play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/aswinak/.gradle/caches/transforms-3/f637cd4881eb8d22972391cd5336d9dd/transformed/recaptcha-18.1.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/aswinak/.gradle/caches/transforms-3/f637cd4881eb8d22972391cd5336d9dd/transformed/recaptcha-18.1.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.play:integrity:1.1.0] /home/aswinak/.gradle/caches/transforms-3/d9141ed2d57a7ab785998cfbc0435cb3/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
 MERGED from [com.google.android.play:integrity:1.1.0] /home/aswinak/.gradle/caches/transforms-3/d9141ed2d57a7ab785998cfbc0435cb3/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/aswinak/.gradle/caches/transforms-3/a8346f402f4d9c58e54c34dc1ad1672e/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] /home/aswinak/.gradle/caches/transforms-3/a8346f402f4d9c58e54c34dc1ad1672e/transformed/firebase-appcheck-interop-17.0.1/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/aswinak/.gradle/caches/transforms-3/9138d909f832accbf84c6a263d21774c/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/aswinak/.gradle/caches/transforms-3/9138d909f832accbf84c6a263d21774c/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/aswinak/.gradle/caches/transforms-3/20f2df6231775ca0340281e9541d17f2/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
@@ -278,8 +308,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/aswi
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/aswinak/.gradle/caches/transforms-3/522d81a10b19d678b6c3676656046d3f/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/aswinak/.gradle/caches/transforms-3/717d434982977aae5e16b4f97189f751/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/aswinak/.gradle/caches/transforms-3/717d434982977aae5e16b4f97189f751/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.3.6] /home/aswinak/.gradle/caches/transforms-3/f7b32757ca03666515f4c3ad4eaaac88/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] /home/aswinak/.gradle/caches/transforms-3/f7b32757ca03666515f4c3ad4eaaac88/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.6.0] /home/aswinak/.gradle/caches/transforms-3/a1d325756aee86d51cac643264140594/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
@@ -320,14 +350,18 @@ MERGED from [androidx.savedstate:savedstate:1.2.0] /home/aswinak/.gradle/caches/
 MERGED from [androidx.savedstate:savedstate:1.2.0] /home/aswinak/.gradle/caches/transforms-3/c296401aeec785c7b8990ee72918eca4/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] /home/aswinak/.gradle/caches/transforms-3/fdc51c0faae35a8161baf01230f0c1de/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /home/aswinak/.gradle/caches/transforms-3/fdc51c0faae35a8161baf01230f0c1de/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aswinak/.gradle/caches/transforms-3/ce04a1a92f31681483ea625b7afbbcaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aswinak/.gradle/caches/transforms-3/ce04a1a92f31681483ea625b7afbbcaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:17.1.0] /home/aswinak/.gradle/caches/transforms-3/84910ab4d3ec5e1685888707e795f9c9/transformed/firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-components:17.1.0] /home/aswinak/.gradle/caches/transforms-3/84910ab4d3ec5e1685888707e795f9c9/transformed/firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /home/aswinak/.gradle/caches/transforms-3/c69f93d5bb97ec1fe221f11d188447f6/transformed/gifdecoder-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /home/aswinak/.gradle/caches/transforms-3/c69f93d5bb97ec1fe221f11d188447f6/transformed/gifdecoder-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/aswinak/.gradle/caches/transforms-3/0a84a5b7058713e05a68bae9ac14234b/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/aswinak/.gradle/caches/transforms-3/0a84a5b7058713e05a68bae9ac14234b/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/aswinak/.gradle/caches/transforms-3/a7ccdfd97f3d474ba16d3e4df621c775/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/aswinak/.gradle/caches/transforms-3/a7ccdfd97f3d474ba16d3e4df621c775/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] /home/aswinak/.gradle/caches/transforms-3/79968e930d5a1785af53537c5e1e28c1/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] /home/aswinak/.gradle/caches/transforms-3/79968e930d5a1785af53537c5e1e28c1/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aswinak/.gradle/caches/transforms-3/ce04a1a92f31681483ea625b7afbbcaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aswinak/.gradle/caches/transforms-3/ce04a1a92f31681483ea625b7afbbcaa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aswinak/.gradle/caches/transforms-3/659367f6362215c1cdca31091b7e21fa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aswinak/.gradle/caches/transforms-3/659367f6362215c1cdca31091b7e21fa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aswinak/.gradle/caches/transforms-3/489ab0ad17d8343895e2f5c9177b0cfb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
@@ -349,7 +383,7 @@ MERGED from [pl.droidsonroids:relinker:1.3.1] /home/aswinak/.gradle/caches/trans
 INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
 INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:23:9-61
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
 		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
@@ -358,80 +392,88 @@ INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidMan
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
 		ADDED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
 		INJECTED from /home/aswinak/AndroidStudioProjects/Easify/app/src/main/AndroidManifest.xml
-activity#com.google.firebase.auth.internal.GenericIdpActivity
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:29:9-46:20
-	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:31:13-46
-	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:33:13-44
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:32:13-36
-	android:theme
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:34:13-72
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:30:13-80
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:35:13-45:29
-action#android.intent.action.VIEW
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:36:17-69
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:36:25-66
-category#android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:38:17-76
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:38:27-73
-category#android.intent.category.BROWSABLE
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:39:17-78
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:39:27-75
-data
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:41:17-44:51
-	android:path
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:43:21-37
-	android:host
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:42:21-49
-	android:scheme
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:44:21-48
-activity#com.google.firebase.auth.internal.RecaptchaActivity
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:47:9-64:20
-	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:49:13-46
-	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:51:13-44
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:50:13-36
-	android:theme
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:52:13-72
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:48:13-79
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:53:13-63:29
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:66:9-72:19
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:66:9-72:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/aswinak/.gradle/caches/transforms-3/523c47b80d98e21d1dc2b40a20e3f451/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:11:9-17:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/aswinak/.gradle/caches/transforms-3/523c47b80d98e21d1dc2b40a20e3f451/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:11:9-17:19
 MERGED from [com.google.firebase:firebase-database:20.2.2] /home/aswinak/.gradle/caches/transforms-3/73c106307f849e20b9def1a994d0022c/transformed/firebase-database-20.2.2/AndroidManifest.xml:28:9-34:19
 MERGED from [com.google.firebase:firebase-database:20.2.2] /home/aswinak/.gradle/caches/transforms-3/73c106307f849e20b9def1a994d0022c/transformed/firebase-database-20.2.2/AndroidManifest.xml:28:9-34:19
 MERGED from [com.google.firebase:firebase-appcheck:17.0.1] /home/aswinak/.gradle/caches/transforms-3/4144483ce93fb3a8ac509f5aae647736/transformed/firebase-appcheck-17.0.1/AndroidManifest.xml:24:9-30:19
 MERGED from [com.google.firebase:firebase-appcheck:17.0.1] /home/aswinak/.gradle/caches/transforms-3/4144483ce93fb3a8ac509f5aae647736/transformed/firebase-appcheck-17.0.1/AndroidManifest.xml:24:9-30:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:11:9-17:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:11:9-17:19
-MERGED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:68:13-37
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:10:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:36:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:67:13-84
-meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:69:13-71:85
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:71:17-82
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.0.0] /home/aswinak/.gradle/caches/transforms-3/7b13e52311f6382179e7a9308a5eb39a/transformed/firebase-auth-22.0.0/AndroidManifest.xml:70:17-109
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] /home/aswinak/.gradle/caches/transforms-3/903fdaacecd0061f96705f9357a2f8f2/transformed/firebase-auth-ktx-22.1.1/AndroidManifest.xml:12:17-116
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] /home/aswinak/.gradle/caches/transforms-3/20f7a75912a54f7dd82b0718f1c149cf/transformed/firebase-auth-22.1.1/AndroidManifest.xml:70:17-109
 meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
 ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] /home/aswinak/.gradle/caches/transforms-3/523c47b80d98e21d1dc2b40a20e3f451/transformed/firebase-database-ktx-20.2.2/AndroidManifest.xml:14:13-16:85
 	android:value
@@ -468,24 +510,44 @@ ADDED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gra
 		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
 	android:name
 		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /home/aswinak/.gradle/caches/transforms-3/47af11607710a3a535b8926d8cef1027/transformed/play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
-meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
-ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:14:13-16:85
-	android:value
-		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:16:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] /home/aswinak/.gradle/caches/transforms-3/9dac227f7f4cafc9594761a4861b4b4d/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:15:17-113
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:29:13-37
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:28:13-43
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/aswinak/.gradle/caches/transforms-3/cb630877707ea99dd323187300d600d6/transformed/firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/aswinak/.gradle/caches/transforms-3/ec4bf0ef064a46179166ecb56f4692fd/transformed/play-services-auth-20.6.0/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] /home/aswinak/.gradle/caches/transforms-3/01cf7b3a8fd394b95048f9f17773824a/transformed/firebase-common-ktx-20.3.3/AndroidManifest.xml:15:17-113
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] /home/aswinak/.gradle/caches/transforms-3/7aaaaf2af7e2fb9b8691bd1040b59fda/transformed/firebase-common-20.3.3/AndroidManifest.xml:26:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/aswinak/.gradle/caches/transforms-3/20f2df6231775ca0340281e9541d17f2/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
 	android:exported
@@ -495,11 +557,11 @@ ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/aswinak/.gra
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/aswinak/.gradle/caches/transforms-3/20f2df6231775ca0340281e9541d17f2/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/aswinak/.gradle/caches/transforms-3/38b4f6daea7aff7c75be1939f9e15b60/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/aswinak/.gradle/caches/transforms-3/d31b15e2dcb8a4e98b8c02b965d8b0a6/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /home/aswinak/.gradle/caches/transforms-3/faad00d07dc63e8fc1e394ca2f4946b8/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/aswinak/.gradle/caches/transforms-3/97083597d2aa1ff67b7330551f5ec587/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
